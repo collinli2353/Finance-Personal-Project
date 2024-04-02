@@ -1,4 +1,5 @@
-# models folder
+# unwanted folders
+myenv/
 models/
 
 # Byte-compiled / optimized / DLL files
